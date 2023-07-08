@@ -1,0 +1,20 @@
+{
+  "name": "react-project1",
+  "version": "1.0.0",
+  "description": "A React#1 project collections to practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afl0r3s/react-project1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/afl0r3s/react-project1/issues"
+  },
+  "homepage": "https://github.com/afl0r3s/react-project1#readme"
+}
